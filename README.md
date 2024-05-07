@@ -44,6 +44,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+![323141730-0474ff8d-5746-49ef-9bcd-8705fb8fb028](https://github.com/SanjayRagavendar/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/91368803/9201f716-ac2d-43c0-8b4a-ac85657514a0)
 
 
 ### Name: Sanjay Ragavendar M K 
